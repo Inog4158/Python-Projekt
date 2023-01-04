@@ -1,0 +1,15 @@
+Arthur
+Maerchen
+10
+380
+
+Bob
+Mathbuch
+4
+120
+
+Timon
+Star 
+Wars
+55
+279
